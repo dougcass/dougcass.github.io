@@ -1,0 +1,197 @@
+{{!< default}}
+<div id="root">
+  <!-- scrollTo header -->
+  <a id="header"></a>
+  <div class="nav">
+    <div class="name">
+      <h1>
+        <b>Douglas</b>Casserleigh
+      </h1>
+    </div>
+    <ul>
+      <li class="contact"><a href="#">Contact</a></li>
+      <li class="projects"><a href="#">Projects</a></li>
+<<<<<<< HEAD
+      <li class="skills"><a href="#">Skills</a></li>
+=======
+>>>>>>> skills_master
+      <li class="about"><a href="#">About</a></li>
+    </ul>
+  </div>
+    
+  <div class="container-head">
+    <div class="head-text-box-left">
+      <h1 class="head text">
+        <b>web developer</b>
+      </h1>
+    </div>
+    
+    <!-- <div class=material-panel>
+      <div class="material-relative">
+        <img class="material-image" src="/images/material-rectangle_0000_Rounded-Rectangle-1.png"/>
+        <div class="material-text-box">
+          <p class="material-text">
+            hell there
+          </p>
+        </div>
+      </div>
+    </div> -->
+    <video class="video-head" loop
+    autoplay >
+      <source src="/video/White_Soft_Backgrounds_Loopable.mp4" type="video/mp4"/>
+    </video>
+    
+    <div class="splody-flex">
+      <div class="splody-relative">
+        <img class="splody-image" src="http://4.bp.blogspot.com/-faGB2fRiLdc/UWawod_gsLI/AAAAAAAAAF0/Wif1p84_Kjg/s1600/splody1_0001.png"/>
+
+      </div>
+    </div>  
+  </div>
+  <div class="resource-links">
+    <a href="https://github.com/dougcass">
+      <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+    </a>
+    <a href= "http://codepen.io/washburn119/">
+      <i class="fa fa-codepen fa-2x" aria-hidden="true"></i>
+    </a>
+    <a href= "https://www.linkedin.com/in/douglas-casserleigh-111477120">
+      <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+    </a>
+    </div>
+  </div>
+  <!-- <div class="navabr-collapse">
+    <ul class="navbar-list">
+      <li>Summary</li>
+      <li>--+</li>
+      <li>Experience</li>
+      <li>--+</li>
+      <li>Education</li>
+      <li>--+</li>
+      <li>Resources</li>
+      <li>--+</li>
+      <li>Home</li>
+    </ul>
+  </div> -->
+
+  <div class="container-summary">
+
+    <div class="container-summary-title">
+      <p class="summary-title-text">
+        hello
+      </p>
+    </div>
+    <div class="container-summary-body">
+      <p class="summary-body">
+        My name is Douglas Casserleigh and I am a Web Developer. I am a graduate of DaVinci Coders intensive MicroDegree program based in Ruby on Rails, Javascript, and industry related development technologies.  I respect agile development principles, embrace git version control, and truly enjoy team-oriented development.  I am an adaptable, fast-learner, and I am excited at the prospect of expanding my technical skillset.
+      </p>
+    </div>
+    <div class="tech-icon-box">
+      <img class="tech-icon html5" src="/images/html5.svg"/>
+      <img class="tech-icon css3" src="/images/css3.svg"/>
+      <img class="tech-icon git" src="/images/git.svg"/>
+      <img class="tech-icon js" src="/images/javascript.svg"/>
+      <img class="tech-icon bootstrap" src="/images/bootstrap.svg"/>
+      
+    </div>
+    <div class="skillset-box">
+      <h2 class="skillset-header-text">Technologies</h2>
+      <p></p>
+      <p class="skillset-text">
+          Ruby on Rails--JavaScript--HTML5--CSS3--Bootstrap<br>Git Workflow--CSS Animation--Agile Development<br>Test Driven Development--Chrome Dev Tools<br>Command Line Interface     
+      </p>
+    </div>
+
+    <!-- <div class=material-panel>
+      <div class="material-relative">
+        <img class="material-image" src="/images/material-rectangle_0000_Rounded-Rectangle-1.png"/>
+        <div class="material-text-box">
+          <p class="material-text">
+            hell there
+          </p>
+        </div>
+      </div>
+    </div> -->
+  </div>
+
+  <div class="container-resources">
+  <div class="contact-abstract-box">
+       <img class="contact-abstract-image" src="http://imgview.info/download/20150818/digital-art-cinema-4d-abstract-cgi-4096x3112.png"/>
+
+    </div>
+
+    <div class="resources-flex pair-up">
+      
+      <div class="resource-box-logo">
+        <img class="pair-up-logo" src="/images/pair_up.png"/>
+      </div>
+      <div class="resource-box pair-up">
+        <p></p>
+        <h2 class="resource-header-text">
+          Pair-Up Project
+        </h2>
+        <p></p>
+        <p>
+          A Ruby on Rails scheduling application designed for students to
+          find co-working opportunites based on matching availability.<br>In order to explore please login using the following credentials:
+          Username: guest<br>
+          Password: justlooking<br>
+          Email: guest@pair-up.gmail
+        </p>
+      </div>
+    </div>
+    <div class="resources-flex abstract">
+      <div class="resource-box-logo abstract">
+        <img class="abstract-logo" src="http://imgview.info/download/20150818/digital-art-cinema-4d-abstract-cgi-4096x3112.png"/>
+      </div>
+      <div class="resource-box abstract">
+        <p></p>
+        <h2 class="resource-header-text">
+          Abstract Playground
+        </h2>
+        <p></p>
+        <p>
+          A conglomeration of personal experimention in abstract infographics. Interactive abstract information delivery.
+          A study in front-end abstract design utilizing HTML5, CSS3 animations, and JavaScript.  A unique resume template utilizing interactive abstract design elements to share information.  My digital playground in a sense
+        </p>
+      </div>
+    </div>    
+  </div>
+  <div class="container-contact">
+    <!-- <div class="contact-abstract-box">
+       <img class="contact-abstract-image" src="http://imgview.info/download/20150818/digital-art-cinema-4d-abstract-cgi-4096x3112.png"/>
+
+    </div>
+ -->
+
+
+  </div>
+  <div class="container-experience">
+    <div class="davinci-box-logo">
+      <img class="davinci-logo" src="/images/davinci coders.png"/>
+    </div>  
+    <div class="container-davinci-box">
+      <div class="davinci-box-relative">
+        <div class="davinci-box-ruby">
+          <pre class="program-details">
+          Back-End Web Development with Ruby on Rails:
+          Program related experience in:
+          Ruby Language            Rails Framework
+          Git Version Control     Test Driven Development 
+          Agile Development       Command Line Workflow     
+          </pre>
+        </div>
+        <div class="davinci-box-js">
+          <pre class="program-details">
+          Front-End Web Development with JavaScript:
+          Program related experience in:
+          Javascript                      Bootstrap
+          HTML 5                            CSS 3
+          Web Animation             Chrome Dev Tools     
+          </pre>
+        </div>
+        
+      </div>   
+    </div>
+  </div>
+  
