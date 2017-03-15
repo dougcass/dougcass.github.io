@@ -10,12 +10,12 @@ var controller = {
 
   createEventHandlers: function(){
     $('a[href^="#"]').on('click', this.scrollToHandler);
-    $('hamburger').on('click', this.navbarHandler);
-
+    $('.hamburger').on('click', this.navbarHandler);
+    
   },
 
   navbarHandler: function(){ 
-    $('navbar-collapse').addClass('show');
+    $('.navbar-collapse').addClass('show');
   },
     
   scrollToHandler: function(event) {
