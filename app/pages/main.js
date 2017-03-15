@@ -15,7 +15,7 @@ var controller = {
   },
 
   navbarHandler: function(){ 
-    $('.navbar-collapse').addClass('show');
+    $('navbar-collapse').addClass('show');
   },
     
   scrollToHandler: function(event) {
