@@ -7,9 +7,15 @@ var controller = {
   render: function(){
     this.createEventHandlers();
   },
+
   createEventHandlers: function(){
     $('a[href^="#"]').on('click', this.scrollToHandler);
-    
+    $('hamburger').on('click', this.navbarHandler);
+
+  },
+
+  navbarHandler: function(){ 
+    $('.navbar-collapse').addClass('show');
   },
     
   scrollToHandler: function(event) {
